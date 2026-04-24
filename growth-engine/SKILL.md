@@ -1,3 +1,8 @@
+---
+name: growth-engine
+description: "Autonomous marketing growth experimentation framework for creating experiments, logging data, scoring statistical winners, maintaining playbooks, and generating scorecards. Use when managing A/B tests, multivariate marketing experiments, campaign pacing, or growth experiment portfolios."
+---
+
 # Growth Engine
 
 ## Preamble (runs on skill start)

@@ -1,3 +1,8 @@
+---
+name: team-ops
+description: "AI-powered team operations for performance audits, stack ranking, role redundancy analysis, meeting transcript extraction, and CRM task follow-up. Use when evaluating team performance, extracting meeting actions, identifying bottlenecks, or creating operational follow-up lists."
+---
+
 # AI Team Ops
 
 ## Preamble (runs on skill start)

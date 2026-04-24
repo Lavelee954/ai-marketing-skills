@@ -1,3 +1,8 @@
+---
+name: sales-pipeline
+description: "AI-powered sales pipeline automation for visitor identification, intent scoring, suppression checks, campaign routing, deal resurrection, trigger prospecting, and ICP learning. Use when setting up outbound routing, reviving closed-lost deals, finding buying signals, or improving ICP targeting."
+---
+
 # AI Sales Pipeline
 
 ## Preamble (runs on skill start)

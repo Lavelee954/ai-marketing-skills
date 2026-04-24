@@ -1,3 +1,8 @@
+---
+name: revenue-intelligence
+description: "AI-powered revenue intelligence for sales call insight extraction, content-to-revenue attribution, and multi-source client reporting. Use when analyzing Gong transcripts, mapping content to revenue, detecting marketing anomalies, or producing unified revenue reports."
+---
+
 # AI Revenue Intelligence
 
 ## Preamble (runs on skill start)

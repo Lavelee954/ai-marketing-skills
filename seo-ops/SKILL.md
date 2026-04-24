@@ -1,3 +1,8 @@
+---
+name: seo-ops
+description: "AI-powered SEO operations for keyword intelligence, competitor gap analysis, Google Search Console optimization, trend detection, and content briefs. Use when doing keyword research, SEO audits, competitor analysis, traffic decay diagnosis, or content prioritization."
+---
+
 # AI SEO Ops
 
 ## Preamble (runs on skill start)
